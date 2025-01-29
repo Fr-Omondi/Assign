@@ -1,6 +1,3 @@
-x=70556
+x=int(input("enter a number"))
 y=85
-print(x-y)
-def add(x,y):
-    print(x+y)
-add(30,50)  
+print(x-y) 
