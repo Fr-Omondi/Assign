@@ -1,3 +1,3 @@
-x=7
-y=8
-print(x+y)
+x=70
+y=85
+print(x*y)
